@@ -1,0 +1,28 @@
+{
+  "hosting": [
+    {
+      "target": "devlog",
+      "public": ".",
+      "ignore": ["firebase.json", ".firebaserc", ".nojekyll", "**/.*", "redirect-pub"],
+      "cleanUrls": true,
+      "trailingSlash": false,
+      "headers": [
+        {
+          "source": "**/*.html",
+          "headers": [{ "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }]
+        }
+      ]
+    },
+    {
+      "target": "main",
+      "public": "redirect-pub",
+      "redirects": [
+        {
+          "source": "**",
+          "destination": "https://shota-devlog.web.app",
+          "type": 301
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "shota-portfolio"
+  },
+  "targets": {
+    "shota-portfolio": {
+      "hosting": {
+        "devlog": ["shota-devlog"],
+        "main": ["shota-portfolio"]
+      }
+    }
+  }
+}
