@@ -1,7 +1,7 @@
 # DevLog
 
-Firebase Hosting で公開されている開発ログ Web アプリケーションです。
-This is a development log web application hosted on Firebase.
+Firebase Hosting で公開されている、制作したアプリを掲載しているポートフォリオサイトです。
+This is a portfolio site showcasing web applications created by Shota, hosted on Firebase.
 
 ---
 
@@ -9,11 +9,11 @@ This is a development log web application hosted on Firebase.
 <summary>🇯🇵 日本語のドキュメントを表示 (Click to expand)</summary>
 
 ## 概要
-Shota の個人用開発ログ Web アプリケーションです。
+Shotaがこれまでに制作したWebアプリケーションを展示・紹介しているポートフォリオサイトです。
 
 ## 特徴
 - **Firebase Hosting**: 高速で安全なホスティングサービスを利用して公開されています。
-- **シンプルなデザイン**: 読みやすさを重視した開発ブログです。
+- **制作アプリの掲載**: これまで開発したアプリケーションをまとめて紹介しています。
 
 ## 閲覧方法
 ブラウザで以下のURLを開いてください：
@@ -30,7 +30,7 @@ Shota の個人用開発ログ Web アプリケーションです。
 <summary>🇺🇸 Show English Document (Click to expand)</summary>
 
 ## Overview
-Shota's personal development log web application.
+A portfolio site showcasing web applications created by Shota.
 
 ## Features
 - **Firebase Hosting**: Published using a fast and secure hosting service.
